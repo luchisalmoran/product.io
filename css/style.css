@@ -1,0 +1,15 @@
+
+.joe{
+  font-size:90px;
+  color:rgb(0, 0, 0);
+  font-family: 'Lobster', cursive;
+  text-align:center;
+}
+.center{
+  display: block;
+  position: absolute;top:400px;left:600px;
+}
+.kev{
+  border-color: rgb(135, 143, 201);
+  position: absolute;top:200px;left:500px;
+}
